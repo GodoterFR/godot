@@ -58,7 +58,7 @@
 			Limits the lines of text the node shows on screen.
 		</member>
 		<member name="percent_visible" type="float" setter="set_percent_visible" getter="get_percent_visible">
-			Limits the count of visible characters. If you set [code]percent_visible[/code] to 50, only up to half of the text's characters will display on screen. Useful to animate the text in a dialog box.
+			Limits the count of visible characters. If you set [code]percent_visible[/code] to 0.5, only up to half of the text's characters will display on screen. Useful to animate the text in a dialog box.
 		</member>
 		<member name="text" type="String" setter="set_text" getter="get_text">
 			The text to display on screen.
